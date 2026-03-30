@@ -1,0 +1,5 @@
+{
+  "name": "SonicFlow Audio Processor",
+  "description": "A modern audio processing application with real-time effects, customizable reverb, and high-quality export.",
+  "requestFramePermissions": []
+}
